@@ -1,2 +1,1 @@
-aiogram==3.11.1
-httpx
+pip install aiogram aiohttp python-dotenv
