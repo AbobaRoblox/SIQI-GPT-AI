@@ -1,1 +1,1 @@
-pip install aiogram aiohttp python-dotenv
+aiogram aiohttp python-dotenv
